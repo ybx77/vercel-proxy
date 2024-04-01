@@ -1,5 +1,5 @@
 const config = {
-  jsdURL: 'https://cdn.jsdelivr.net',
+  jsdURL: 'https://www.youtube.com',
   allowedOrigins: '*',
 }
 module.exports = config;
